@@ -4,9 +4,9 @@
 - Email: yizhou.ye@connect.ust.hk
 
 ### Education
-  - 2020 - present Ph.D. Student in Urban Governance and Design, THE HONG KONG UNIVErSITY OF SCIENCE AND TECHNOLOGY
-  - 2019 - 2020 M.A. in Social Science (Dean’s Award), THE HONG KONG UNIVErSITY OF SCIENCE AND TECHNOLOGY
-  - 2015 – 2019 B.L. in Sociology (Distinction), THE HONG KONG UNIVErSITY OF SCIENCE AND TECHNOLOGY
+  - Ph.D. Student in Urban Governance and Design, 2020 - present, HKUST
+  - M.A. in Social Science (Dean’s Award), 2020, HKUST
+  - B.L. in Sociology (Distinction), 2019, SYSU
 
 ### Research interests
   - Social Inequality, Stratification and Mobility, Urbanization, Neighborhood Effects, Migration, Survey and Quantitative Methods, Computational Methods
