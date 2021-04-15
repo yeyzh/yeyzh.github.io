@@ -1,5 +1,5 @@
 
-## Yizhou Ye's Homepage
+## Yizhou Ye
 
 ### Contact me
 - Email: yizhou.ye@connect.ust.hk
