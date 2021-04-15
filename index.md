@@ -2,7 +2,7 @@
 ## Yizhou Ye
 
 ### Contact me
-- Email: yizhou.ye@connect.ust.hk
+- Email: <yizhou.ye@connect.ust.hk>
 
 ### Education
   - Ph.D. Student in Urban Governance and Design, 2020 - present, HKUST
