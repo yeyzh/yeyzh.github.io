@@ -17,7 +17,7 @@
     - Thesis: Using Machine Learning to Predict Panel Survey Attrition
     - Supervisor: Prof. Yucheng Liang
 
-### Research interests
+### Research Interest
   - Urban Sociology, Neighborhood Effect, Migration, Survey Methods, Spatial Methods
 
 ### Survey Position
@@ -28,3 +28,8 @@
   - Project Manager, Hong Kong Panel Study of Social Dynamic Online Survey, 2020-2021, HKUST
   - Field Coordinator, Causes and Health Consequences of Synthetic Drug Use Survey, 2018-2020, ODU, HKUST & SYSU
   - Field Supervisor, China Labor Dynamics Survey, 2018, SYSU
+
+### Skill
+  - Computer skills: STATA, R, GIS(ArcGIS/QGIS/R), Python, HLM, LaTeX
+  - Language skills: English (Fluent), Mandarin (Native), Cantonese (Native)
+
