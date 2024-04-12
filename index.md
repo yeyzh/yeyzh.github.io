@@ -3,7 +3,7 @@
 
 ### Contact me
 - Email: <yizhou.ye@connect.ust.hk>
-- Address: Clear Water Bay, Kowloon, Hong Kong
+- Address: HKUST, Clear Water Bay, Kowloon, Hong Kong
 
 ### Education
   - Ph.D. Student in Urban Governance and Design, 2020 - 2024 (Expected), HKUST
@@ -33,3 +33,4 @@
   - Computer skills: STATA, R, GIS(ArcGIS/QGIS/R), Python, HLM, LaTeX
   - Language skills: English (Fluent), Mandarin (Native), Cantonese (Native)
 
+### Skill
